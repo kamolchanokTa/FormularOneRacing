@@ -1,0 +1,39 @@
+[debug] [naha] 
+[debug] [naha] Initial source changes: 
+[debug] [naha] 	removed:Set()
+[debug] [naha] 	added: Set()
+[debug] [naha] 	modified: Set(D:\Git-Playground\FormularOneRacing\src\main\scala\Customers.scala)
+[debug] [naha] Invalidated products: Set(D:\Git-Playground\FormularOneRacing\target\scala-2.12\classes\Customer.class, D:\Git-Playground\FormularOneRacing\target\scala-2.12\classes\Main$.class, D:\Git-Playground\FormularOneRacing\target\scala-2.12\classes\Main.class)
+[debug] [naha] External API changes: API Changes: Set()
+[debug] [naha] Modified binary dependencies: Set()
+[debug] [naha] Initial directly invalidated sources: Set(D:\Git-Playground\FormularOneRacing\src\main\scala\Customers.scala)
+[debug] [naha] 
+[debug] [naha] Sources indirectly invalidated by:
+[debug] [naha] 	product: Set(D:\Git-Playground\FormularOneRacing\src\main\scala\Customers.scala)
+[debug] [naha] 	binary dep: Set()
+[debug] [naha] 	external source: Set()
+[debug] All initially invalidated sources: Set(D:\Git-Playground\FormularOneRacing\src\main\scala\Customers.scala)
+[debug] [naha] Initial set of included nodes: Set(D:\Git-Playground\FormularOneRacing\src\main\scala\Customers.scala)
+[info] Compiling 1 Scala source to D:\Git-Playground\FormularOneRacing\target\scala-2.12\classes...
+[debug] Getting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.12.0
+[debug] Getting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.12.0
+[debug] Running cached compiler d019e5, interfacing (CompilerInterface) with Scala compiler version 2.12.0
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files (x86)\Java\jdk1.8.0_111\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_111\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_111\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_111\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_111\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_111\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_111\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_111\jre\classes;C:\Users\u6037291\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.0.jar
+[debug] 	-classpath
+[debug] 	D:\Git-Playground\FormularOneRacing\target\scala-2.12\classes
+[debug] Scala compilation took 2.583179698 s
+[debug] [naha] Invalidating D:\Git-Playground\FormularOneRacing\src\main\scala\Customers.scala...
+[debug] [naha] Invalidating (transitively) by inheritance from D:\Git-Playground\FormularOneRacing\src\main\scala\Customers.scala...
+[debug] [naha] Initial set of included nodes: Set(D:\Git-Playground\FormularOneRacing\src\main\scala\Customers.scala)
+[debug] [naha] Invalidated by transitive inheritance dependency: Set(D:\Git-Playground\FormularOneRacing\src\main\scala\Customers.scala)
+[debug] [naha] The D:\Git-Playground\FormularOneRacing\src\main\scala\Customers.scala source file has the following regular definitions changed:
+[debug] [naha] 	printFullName, orderValue.
+[debug] [naha] All member reference dependencies will be considered within this context.
+[debug] [naha] New invalidations:
+[debug] [naha] 	Set()
+[debug] [naha] Initial set of included nodes: Set()
+[debug] [naha] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] [naha] 	Set()
+[debug] [naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()
